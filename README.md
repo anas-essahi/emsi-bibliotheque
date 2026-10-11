@@ -15,10 +15,4 @@ Application web de gestion de bibliothèque universitaire en PHP (POO) et MySQL.
 - Transactions SQL pour les emprunts et retours
 - Protection des pages par rôle
 
-## Installation
-1. Importer `sql/bibliotheque.sql`
-2. Copier `includes/config.example.php` en `includes/config.php` et renseigner vos identifiants
-3. Lancer sur XAMPP
 
-## Démo
-https://emsi-bibliotheque.fwh.is/bibliotheque/
